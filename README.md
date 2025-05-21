@@ -1,12 +1,43 @@
-# React + Vite
+# 🚀 REACT + VITE PRAYER TIMING PROJECT
+🔗**DEMO** [visit](https://prayer-timing-sa.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Overview
+This project helps you know the prayer times in different cities in Saudi Arabia
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies
+- **API**
+- **React**
+- **VITE**
+- **CSS**
+- **JavaScript**
 
-## Expanding the ESLint configuration
+## 🏁 Getting Started
+1. 📥 Clone this repository
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**SSH**
+```
+git@github.com:Kmqe/prayer-timing-react-vite.git
+```
+**HTTPS**
+```
+https://github.com/Kmqe/prayer-timing-react-vite.git
+```
+
+2. Install dependencies
+```
+npm install
+```
+
+3. Start the development server:
+```
+npm run dev
+```
+
+4. 🎉 Enjoy!
+
+
+
+⭐ **Star this project if you find it useful!** ⭐
+
+🙏 Thanks for visiting! 🙏
